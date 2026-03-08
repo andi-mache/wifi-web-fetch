@@ -1,3 +1,7 @@
+>!WARNING
+> WIP !!!!!
+
+
 # ESP32 WiFi Dashboard
 
 A bare-metal Rust application for the ESP32 that connects to WiFi, makes periodic HTTP requests, and displays a live dashboard on a 128×128 ST7735s TFT display.
